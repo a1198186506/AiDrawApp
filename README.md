@@ -1,5 +1,7 @@
 ### Ai相机(flutter)
 
+#### 大概描述:目前只接入了flux和Midjourney，接入文档参考的是国内代理转接商的通用文档，如果要直连openai或Midjourney的话可能得自己改一下
+
 #### 技术栈 flutter + nodejs
 
 ### 应用部分截图
